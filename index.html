@@ -10,7 +10,7 @@
       integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
       crossorigin="anonymous"
     />
-    <title>Document</title>
+    <title>Thoughtfilm</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg">
@@ -46,6 +46,10 @@
                 <li><a class="dropdown-item" href="#">Racial</a></li>
                 <li><a class="dropdown-item" href="#">Música</a></li>
                 <li><a class="dropdown-item" href="#">Comedia</a></li>
+                <li><a class="dropdown-item" href="#">Documental</a></li>
+                <li><a class="dropdown-item" href="#">Social</a></li>
+                <li><a class="dropdown-item" href="#">Romance</a></li>
+                <li><a class="dropdown-item" href="#">Histórica</a></li>
                 <li><hr class="dropdown-divider" /></li>
                 <li>
                   <a class="dropdown-item" href="#">Cine francés</a>
@@ -54,38 +58,22 @@
             </li>
           </ul>
         </div>
+        <div class="pageTitle">
+          <h3>Thoughtful</h3>
+        </div>
       </div>
+
     </nav>
     <header>
+      <div class="header">
         <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
               <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
               <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
             </div>
             <div class="carousel-inner">
-              </div>
-              <div class="carousel-item" data-bs-interval="2000">
-                <img src="https://tse3.mm.bing.net/th?id=OIP.hZrDe9SiQyRVrD_fewvRCQHaDJ&pid=Api" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Afroamericanah</h5>
-                  <p>Drama, cultura, música y feminismo en la cultura afroamericana</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img src="https://tse4.mm.bing.net/th?id=OIP.r_JQZnXT7B72iQxhZtg4QQHaE8&pid=Api" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>¿Algo de música?</h5>
-                  <p>Películas con tematica musical</p>
-                </div>
-              </div>
-              <div class="carousel-item active" data-bs-interval="10000">
-                <img src="https://www.bandes-annonces.fr/images/video/1497028/player/perso-player_preview.jpg?v=1525115018" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>Cine francés</h5>
-                  <p>Las mejores comedias francesas</p>
-                </div>
-            </div>
               <div class="carousel-item">
                 <img src="https://idolosolvidados.com/wp-content/uploads/2020/05/no-soy-un-hombre-facil2.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
@@ -93,6 +81,29 @@
                   <p>Películas con perspectiva de género</p>
                 </div>
               </div>
+              <div class="carousel-item" data-bs-interval="2000">
+                <img src="https://elfinalde.s3-accelerate.amazonaws.com/2016/08/rgpPb0mem9WpyOQBED0ymUxwFKO-1024x576.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Afroamericanah</h5>
+                  <p>Drama, cultura, música y feminismo en la cultura afroamericana</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="https://wallpapercave.com/wp/wp1952237.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>¿Algo de música?</h5>
+                  <p>Películas con tematica musical</p>
+                </div>
+              </div>
+              <div class="carousel-item active" data-bs-interval="10000">
+                <img src="https://www.wimbledonfilmclub.com/wp-content/uploads/2015/12/famille-belier.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Cine francés</h5>
+                  <p>Las mejores comedias francesas</p>
+                </div>
+              </div>
+            </div>
+
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -103,33 +114,51 @@
               <span class="visually-hidden">Next</span>
             </button>
           </div>
+        </div>
     </header>
+    <section class="text">
+      <h5>Películas para reflexionar</h5>
+      <p>Esta web recoge una lista de películas seleccionadas a razón de los temas que se tratan en ellas. Encontrarás una interesante variedad de títulos con perspectiva racial, de género y social, algunos documentales y, próximamente, series relacionadas con estos mismos temas.</p>
+    </section>
     <div id="moviesSection">
-       <div class="billboard">
-        
-          </div>
-       </div>
+
+      </div>
 
     </div>
 
     <style>
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;700&display=swap');
 body {
         background-color: rgb(244, 224, 255);
+        
       }
       .navbar {
         background-color: rgb(31, 1, 48);
       }
-      header{
+      .container-fluid {
+        display: grid;
+        grid-template-columns: auto auto auto;
+      }
+      .pageTitle {
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        text-align: center;
+        color: whitesmoke;
+      }
+      header {
+      display: flex;
+        justify-content: center;
+      }
+      .header {
         margin: 2vh;
+        width: 80vw;
+        background-color: #745a82; 
         display: flex;
         justify-content: center;
-        background-color: rgb(31, 1, 48); 
-        opacity: 0.6;
       }
-      #carouselExampleDark{
+      
+      .carousel{
         width: 60vw;
-       
       }
       #carouselExampleDark h5{
         color:rgb(31, 1, 48); 
@@ -148,6 +177,27 @@ body {
     .home {
         color: #efc84a;
     }
+    .text {
+      margin: 5vh 0 5vh 0;
+      text-align: center;
+      background-color: rgb(31, 1, 48);
+      padding: 3vh 15vw 3vh 15vw;
+    }
+    .text h5 {
+      font-family: 'Oswald', sans-serif;
+      color: #efc84a;
+      font-weight: 700;
+      font-size: 2.5vw;
+      margin-top: 1vh;
+    }
+    .text p {
+      font-family: 'Oswald', sans-serif;
+      margin: 5vh 10vw 5vh 10vw;
+      color: whitesmoke;
+      font-weight: 300;
+      font-size: 2.5vh;
+    }
+
     #moviesSection {
         display: grid;
         grid-template-columns: auto auto auto;
@@ -163,7 +213,7 @@ body {
         margin: 5vw;
         background-color: rgb(31, 1, 48);
     }
-    h5 {
+    .card h5 {
         color: whitesmoke;
         font-family: 'Oswald', sans-serif;    
         font-weight: 400;
@@ -173,6 +223,11 @@ body {
         color: whitesmoke;
     }
 
+    .btn:hover {
+      background-color: #745a82;
+      border: none;
+      color:rgb(31, 1, 48);
+    }
     </style>
 
     <script src="./js/index.js"></script>

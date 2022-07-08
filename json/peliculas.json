@@ -56,7 +56,7 @@
       "image": "https://tse2.mm.bing.net/th?id=OIP.9ePZpT92iEAV63CZPfO98QAAAA&pid=Api",
       "nombre": "No soy un hombre fácil",
       "direccion": "Eleonore Pourriat",
-      "clasificacion": "Drama",
+      "clasificacion": "Social, Género, Comedia, Francesa",
       "link": "https://www.filmaffinity.com/es/film830226.html"
     },
 
@@ -65,7 +65,7 @@
       "image": "https://pics.filmaffinity.com/the_help-927616110-mmed.jpg",
       "nombre": "Criadas y señoras",
       "direccion": "Tate Taylor",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Racial, Histórica",
       "link": "https://www.filmaffinity.com/es/film512560.html"
     },
     {
@@ -73,7 +73,7 @@
       "image": "https://pics.filmaffinity.com/moxie-995240489-mmed.jpg",
       "nombre": "Moxie",
       "direccion": "Amy Poehler",
-      "clasificacion": "Drama",
+      "clasificacion": "Género, Social, Comedia",
       "link": "https://www.filmaffinity.com/es/film698609.html"
     },
     {
@@ -81,7 +81,7 @@
       "image": "https://pics.filmaffinity.com/8_rue_de_l_humanite-507823364-mmed.jpg",
       "nombre": "Calle de la Humanidad, 8",
       "direccion": "Dany Boon",
-      "clasificacion": "Drama",
+      "clasificacion": "Comedia, Francesa",
       "link": "https://www.filmaffinity.com/es/film619902.html"
     },
     {
@@ -89,7 +89,7 @@
       "image": "https://pics.filmaffinity.com/whiplash-344887410-mmed.jpg",
       "nombre": "Whiplash",
       "direccion": "Damien Chazelle",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Música",
       "link": "https://www.filmaffinity.com/es/film206955.html"
     },
     {
@@ -97,7 +97,7 @@
       "image": "https://pics.filmaffinity.com/what_happened_miss_simone-625909763-mmed.jpg",
       "nombre": "What Happened, Miss Simone?",
       "direccion": "Liz Garbus",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Racial, Música",
       "link": "https://www.filmaffinity.com/es/film741404.html"
     },
     {
@@ -105,7 +105,7 @@
       "image": "https://pics.filmaffinity.com/a_secret_love-828785267-mmed.jpg",
       "nombre": "A Secret Love",
       "direccion": "Chris Bolan",
-      "clasificacion": "Drama",
+      "clasificacion": "Documental, Social, Drama, Género, Romance",
       "link": "https://www.filmaffinity.com/es/film497000.html"
     },
     {
@@ -113,7 +113,7 @@
       "image": "https://pics.filmaffinity.com/el_olvido_que_seremos-719207807-mmed.jpg",
       "nombre": "El olvido que seremos",
       "direccion": "Fernando Trueba",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Social",
       "link": "https://www.filmaffinity.com/es/film784420.html"
     },
     {
@@ -121,7 +121,7 @@
       "image": "https://pics.filmaffinity.com/the_starling-107131799-mmed.jpg",
       "nombre": "El estornino",
       "direccion": "Theodore Melfi",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Social, Romance, Género",
       "link": "https://www.filmaffinity.com/es/film180895.html"
     },
     {
@@ -129,7 +129,7 @@
       "image": "https://pics.filmaffinity.com/patch_adams-522377257-mmed.jpg",
       "nombre": "Patch Adams",
       "direccion": "Tom Shadyac",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Social, Romance",
       "link": "https://www.filmaffinity.com/es/film757509.html"
     },
     {
@@ -137,7 +137,7 @@
       "image": "https://pics.filmaffinity.com/strange_weather-926814484-mmed.jpg",
       "nombre": "Strange weather",
       "direccion": "Katherine Dieckmann",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Social, Género",
       "link": "https://www.filmaffinity.com/es/film926303.html"
     },
     {
@@ -145,7 +145,7 @@
       "image": "https://pics.filmaffinity.com/intouchables-218166359-mmed.jpg",
       "nombre": "Intocable",
       "direccion": "Olivier Nakache, Eric Toledano",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Racial, Francesa",
       "link": "https://www.filmaffinity.com/es/film217719.html"
     },
     {
@@ -153,7 +153,7 @@
       "image": "https://pics.filmaffinity.com/green_book-786419795-mmed.jpg",
       "nombre": "Green Book",
       "direccion": "Peter Farrelly",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Racial, Social",
       "link": "https://www.filmaffinity.com/es/film710220.html"
     },
     {
@@ -161,8 +161,16 @@
       "image": "https://pics.filmaffinity.com/roxanne_roxanne-433136574-mmed.jpg",
       "nombre": "Roxanne Roxanne",
       "direccion": "Michael Larnell",
-      "clasificacion": "Drama",
+      "clasificacion": "Drama, Racial, Social, Música",
       "link": "https://www.filmaffinity.com/es/film563056.html"
+    },
+    {
+      "id": 21,
+      "image": "https://pics.filmaffinity.com/hidden_figures-810983135-mmed.jpg",
+      "nombre": "Figuras ocultas",
+      "direccion": "Theodore Melfi",
+      "clasificacion": "Drama, Racial, Social, Histórica",
+      "link": "https://www.filmaffinity.com/es/film947523.html"
     }
   ],
 
@@ -173,16 +181,36 @@
     },
 
     {
-      "nombre": "Francesas",
+      "nombre": "Francesa",
       "id": 2
     },
     {
-      "nombre": "Documentales",
+      "nombre": "Documental",
       "id": 3
     },
     {
       "nombre": "Género",
       "id": 4
+    },
+    {
+      "nombre": "Social",
+      "id": 5
+    },
+    {
+      "nombre": "Romance",
+      "id": 6
+    },
+    {
+      "nombre": "Comedia",
+      "id": 7
+    },
+    {
+      "nombre": "Música",
+      "id": 8
+    },
+    {
+      "nombre": "Histórica",
+      "id": 9
     }
   ]
 }
