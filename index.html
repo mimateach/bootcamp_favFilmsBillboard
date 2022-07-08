@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <img
+          class="navbar-brand"
+          width="50vw"
+          src="https://www.pinclipart.com/picdir/big/67-677027_film-clipart-news-camera-circle-of-film-icon.png"
+          href="#"
+        />
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link home" aria-current="page" href="#">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Lista</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Categorías
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#">Drama</a></li>
+                <li><a class="dropdown-item" href="#">Género</a></li>
+                <li><a class="dropdown-item" href="#">Racial</a></li>
+                <li><a class="dropdown-item" href="#">Música</a></li>
+                <li><a class="dropdown-item" href="#">Comedia</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li>
+                  <a class="dropdown-item" href="#">Cine francés</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <header>
+        <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              </div>
+              <div class="carousel-item" data-bs-interval="2000">
+                <img src="https://tse3.mm.bing.net/th?id=OIP.hZrDe9SiQyRVrD_fewvRCQHaDJ&pid=Api" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Afroamericanah</h5>
+                  <p>Drama, cultura, música y feminismo en la cultura afroamericana</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="https://tse4.mm.bing.net/th?id=OIP.r_JQZnXT7B72iQxhZtg4QQHaE8&pid=Api" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>¿Algo de música?</h5>
+                  <p>Películas con tematica musical</p>
+                </div>
+              </div>
+              <div class="carousel-item active" data-bs-interval="10000">
+                <img src="https://www.bandes-annonces.fr/images/video/1497028/player/perso-player_preview.jpg?v=1525115018" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Cine francés</h5>
+                  <p>Las mejores comedias francesas</p>
+                </div>
+            </div>
+              <div class="carousel-item">
+                <img src="https://idolosolvidados.com/wp-content/uploads/2020/05/no-soy-un-hombre-facil2.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Feminismo</h5>
+                  <p>Películas con perspectiva de género</p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+    </header>
+    <div id="moviesSection">
+       <div class="billboard">
+        
+          </div>
+       </div>
+
+    </div>
+
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+body {
+        background-color: rgb(244, 224, 255);
+      }
+      .navbar {
+        background-color: rgb(31, 1, 48);
+      }
+      header{
+        margin: 2vh;
+        display: flex;
+        justify-content: center;
+        background-color: rgb(31, 1, 48); 
+        opacity: 0.6;
+      }
+      #carouselExampleDark{
+        width: 60vw;
+       
+      }
+      #carouselExampleDark h5{
+        color:rgb(31, 1, 48); 
+      }
+      .carousel-caption {
+        width: 25vw;
+        height: 15vh;
+        background-color: #efc84a;
+        margin-bottom: 3vh;
+        margin: auto;
+      }
+
+      .nav-link {
+        color: whitesmoke;
+      }
+    .home {
+        color: #efc84a;
+    }
+    #moviesSection {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: center;
+        flex-direction: row;
+        justify-content: space-between;
+        }
+    .card-body, .list-group-item {
+        text-align: center;
+    }
+
+    .card {
+        margin: 5vw;
+        background-color: rgb(31, 1, 48);
+    }
+    h5 {
+        color: whitesmoke;
+        font-family: 'Oswald', sans-serif;    
+        font-weight: 400;
+    }
+    .btn {
+        background-color:  #efc84a;
+        color: whitesmoke;
+    }
+
+    </style>
+
+    <script src="./js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"> -->

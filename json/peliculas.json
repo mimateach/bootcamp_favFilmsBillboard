@@ -1,0 +1,191 @@
+
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "image": "https://pics.filmaffinity.com/promising_young_woman-192277202-mmed.jpg",
+      "nombre": "Una joven prometedora",
+      "direccion": "Emerald Fennell",
+      "clasificacion": "Drama, Género",
+      "link": "https://www.filmaffinity.com/es/film552637.html"
+    },
+    {
+      "id": 2,
+      "image": "https://pics.filmaffinity.com/samba-295441501-mmed.jpg",
+      "nombre": "Samba",
+      "direccion": "Olivier Nakache, Eric Toledano",
+      "clasificacion": "Drama, Racial",
+      "link": "https://www.filmaffinity.com/es/film860099.html"
+    },
+    {
+      "id": 3,
+      "image": "https://pics.filmaffinity.com/precious_based_on_the_novel_push_by_sapphire-374960493-mmed.jpg",
+      "nombre": "Precious: Based on the Novel Push by Sapphire",
+      "direccion": "Lee Daniels",
+      "clasificacion": "Drama, Educación, Racial, Género",
+      "link": "https://www.filmaffinity.com/es/film362411.html"
+    },
+    {
+      "id": 4,
+      "image": "https://pics.filmaffinity.com/la_famille_belier-877695557-mmed.jpg",
+      "nombre": "La familia Bélier",
+      "direccion": "Eric Lartigau",
+      "clasificacion": "Drama, Francesa, Música",
+      "link": "https://www.filmaffinity.com/es/film406924.html"
+    },
+    {
+      "id": 5,
+      "image": "https://pics.filmaffinity.com/bienvenue_chez_les_ch_tis-699677144-mmed.jpg",
+      "nombre": "Bienvenidos al Norte",
+      "direccion": "Dany Boon",
+      "clasificacion": "Francesa, Comedia",
+      "link": "https://www.filmaffinity.com/es/film485461.html"
+    },
+
+    {
+      "id": 6,
+      "image": "https://pics.filmaffinity.com/le_doudou-127826425-mmed.jpg",
+      "nombre": "Le doudou",
+      "direccion": "Julien Hervé, Philippe Mechelen",
+      "clasificacion": "Francesa, Comedia",
+      "link": "https://www.filmaffinity.com/es/film994473.html"
+    },
+
+    {
+      "id": 7,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.9ePZpT92iEAV63CZPfO98QAAAA&pid=Api",
+      "nombre": "No soy un hombre fácil",
+      "direccion": "Eleonore Pourriat",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film830226.html"
+    },
+
+    {
+      "id": 8,
+      "image": "https://pics.filmaffinity.com/the_help-927616110-mmed.jpg",
+      "nombre": "Criadas y señoras",
+      "direccion": "Tate Taylor",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film512560.html"
+    },
+    {
+      "id": 9,
+      "image": "https://pics.filmaffinity.com/moxie-995240489-mmed.jpg",
+      "nombre": "Moxie",
+      "direccion": "Amy Poehler",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film698609.html"
+    },
+    {
+      "id": 10,
+      "image": "https://pics.filmaffinity.com/8_rue_de_l_humanite-507823364-mmed.jpg",
+      "nombre": "Calle de la Humanidad, 8",
+      "direccion": "Dany Boon",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film619902.html"
+    },
+    {
+      "id": 11,
+      "image": "https://pics.filmaffinity.com/whiplash-344887410-mmed.jpg",
+      "nombre": "Whiplash",
+      "direccion": "Damien Chazelle",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film206955.html"
+    },
+    {
+      "id": 12,
+      "image": "https://pics.filmaffinity.com/what_happened_miss_simone-625909763-mmed.jpg",
+      "nombre": "What Happened, Miss Simone?",
+      "direccion": "Liz Garbus",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film741404.html"
+    },
+    {
+      "id": 13,
+      "image": "https://pics.filmaffinity.com/a_secret_love-828785267-mmed.jpg",
+      "nombre": "A Secret Love",
+      "direccion": "Chris Bolan",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film497000.html"
+    },
+    {
+      "id": 14,
+      "image": "https://pics.filmaffinity.com/el_olvido_que_seremos-719207807-mmed.jpg",
+      "nombre": "El olvido que seremos",
+      "direccion": "Fernando Trueba",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film784420.html"
+    },
+    {
+      "id": 15,
+      "image": "https://pics.filmaffinity.com/the_starling-107131799-mmed.jpg",
+      "nombre": "El estornino",
+      "direccion": "Theodore Melfi",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film180895.html"
+    },
+    {
+      "id": 16,
+      "image": "https://pics.filmaffinity.com/patch_adams-522377257-mmed.jpg",
+      "nombre": "Patch Adams",
+      "direccion": "Tom Shadyac",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film757509.html"
+    },
+    {
+      "id": 17,
+      "image": "https://pics.filmaffinity.com/strange_weather-926814484-mmed.jpg",
+      "nombre": "Strange weather",
+      "direccion": "Katherine Dieckmann",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film926303.html"
+    },
+    {
+      "id": 18,
+      "image": "https://pics.filmaffinity.com/intouchables-218166359-mmed.jpg",
+      "nombre": "Intocable",
+      "direccion": "Olivier Nakache, Eric Toledano",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film217719.html"
+    },
+    {
+      "id": 19,
+      "image": "https://pics.filmaffinity.com/green_book-786419795-mmed.jpg",
+      "nombre": "Green Book",
+      "direccion": "Peter Farrelly",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film710220.html"
+    },
+    {
+      "id": 20,
+      "image": "https://pics.filmaffinity.com/roxanne_roxanne-433136574-mmed.jpg",
+      "nombre": "Roxanne Roxanne",
+      "direccion": "Michael Larnell",
+      "clasificacion": "Drama",
+      "link": "https://www.filmaffinity.com/es/film563056.html"
+    }
+  ],
+
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+
+    {
+      "nombre": "Francesas",
+      "id": 2
+    },
+    {
+      "nombre": "Documentales",
+      "id": 3
+    },
+    {
+      "nombre": "Género",
+      "id": 4
+    }
+  ]
+}
+
+
+
