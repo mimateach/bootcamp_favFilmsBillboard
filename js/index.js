@@ -8,7 +8,7 @@ return movies;
 
 fetchMoviesJSON().then((movies) => {
 for (let index = 0; index < movies.peliculas.length; index++) {
-    const moviesSection = document.getElementById("moviesSection");
+    const billboard = document.getElementById("billboard");
 
     let id = movies.peliculas[index].id;
     let poster = movies.peliculas[index].image;
@@ -17,7 +17,7 @@ for (let index = 0; index < movies.peliculas.length; index++) {
     let genre = movies.peliculas[index].clasificacion;
     let link = movies.peliculas[index].link;
 
-    moviesSection.innerHTML += `
+    billboard.innerHTML += `
         <div class="card" style="width: 20rem;">
             <img src=${poster} class="card-img-top" alt="...">
             <div class="card-body">
