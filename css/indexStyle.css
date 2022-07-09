@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;700&display=swap');
+body {
+        background-color: rgb(244, 224, 255);
+      }
+      .pageTitle{
+        font-family: 'Oswald', sans-serif;
+        font-weight: 700;
+        font-size: 2vw;
+        color: whitesmoke;
+      }
+      .navbar {
+        background-color: rgb(31, 1, 48);
+      }
+      .nav-link {
+        color: whitesmoke;
+      }
+      .slider {
+        margin: 4vh 10vw 4vh 10vw;
+        display: flex;
+        justify-content: center;
+        background-color: rgb(116, 90, 130); 
+      }
+      #carouselExampleDark{
+        width: 55vw;
+      
+      }
+      #carouselExampleDark h5{
+        color:rgb(31, 1, 48); 
+      }
+      .carousel-caption {
+        width: 25vw;
+        height: 15vh;
+        background-color: #efc84a;
+        margin-bottom: 3vh;
+        margin: auto;
+      }
+
+    .home {
+        color: #efc84a;
+    }
+
+      .text{
+        text-align: center;
+        background-color:rgb(31, 1, 48);
+        padding: 6vh 24vw 6vh 24vw; 
+        margin-top: 2vh;
+      }
+    .text h5 {
+      font-family: 'Oswald', sans-serif;
+      color: #efc84a;
+      font-weight: 700;
+      font-size: 2vw;
+    }
+
+    .paragraph {
+      font-family: 'Oswald', sans-serif;
+      color: whitesmoke;
+      font-size: 1.5vw;
+      font-weight: 300;
+    }
+
+    #billboard {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: center;
+        flex-direction: row;
+        justify-content: space-between;
+        }
+    .card-body, .list-group-item {
+        text-align: center;
+    }
+
+    .card {
+        margin: 5vw;
+        background-color: rgb(31, 1, 48);
+    }
+    .card h5 {
+        color: whitesmoke;
+        font-family: 'Oswald', sans-serif;    
+        font-weight: 400;
+    }
+    .btn {
+        background-color:  #efc84a;
+        color: whitesmoke;
+    }

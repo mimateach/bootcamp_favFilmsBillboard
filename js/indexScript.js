@@ -16,7 +16,6 @@ for (let index = 0; index < movies.peliculas.length; index++) {
     let direccion = movies.peliculas[index].direccion;
     let genre = movies.peliculas[index].clasificacion;
     let link = movies.peliculas[index].link;
-
     billboard.innerHTML += `
         <div class="card" style="width: 20rem;">
             <img src=${poster} class="card-img-top" alt="...">

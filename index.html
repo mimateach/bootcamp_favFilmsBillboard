@@ -10,6 +10,7 @@
       integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
       crossorigin="anonymous"
     />
+    <link  rel="stylesheet" type="text/css" href="css/indexStyle.css">
     <title>Thoughtfilm</title>
   </head>
   <body>
@@ -27,7 +28,7 @@
               <a class="nav-link home" aria-current="page" href="#">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Lista</a>
+              <a class="nav-link" href="lista.html">Lista</a>
             </li>
             <li class="nav-item dropdown">
               <a
@@ -96,7 +97,6 @@
                   <p>Películas con perspectiva de género</p>
                 </div>
               </div>
-           
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
@@ -116,100 +116,12 @@
     </section>
 
     <div id="billboard">
-       </div>
+      </div>
 
     </div>
 
-    <style>
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;700&display=swap');
-body {
-        background-color: rgb(244, 224, 255);
-      }
-      .navbar {
-        background-color: rgb(31, 1, 48);
-      }
-      .slider {
-        margin: 4vh 10vw 4vh 10vw;
-        display: flex;
-        justify-content: center;
-        background-color: rgb(116, 90, 130); 
-      }
-      #carouselExampleDark{
-        width: 55vw;
-       
-      }
-      #carouselExampleDark h5{
-        color:rgb(31, 1, 48); 
-      }
-      .carousel-caption {
-        width: 25vw;
-        height: 15vh;
-        background-color: #efc84a;
-        margin-bottom: 3vh;
-        margin: auto;
-      }
 
-      .nav-link {
-        color: whitesmoke;
-      }
-      .pageTitle{
-        font-family: 'Oswald', sans-serif;
-        font-weight: 700;
-        font-size: 2vw;
-        color: whitesmoke;
-      }
-    .home {
-        color: #efc84a;
-    }
-
-      .text{
-        text-align: center;
-        background-color:rgb(31, 1, 48);
-        padding: 6vh 24vw 6vh 24vw; 
-        margin-top: 2vh;
-      }
-    .text h5 {
-      font-family: 'Oswald', sans-serif;
-      color: #efc84a;
-      font-weight: 700;
-      font-size: 2vw;
-    }
-
-    .paragraph {
-      font-family: 'Oswald', sans-serif;
-      color: whitesmoke;
-      font-size: 1.5vw;
-      font-weight: 300;
-    }
-
-    #billboard {
-        display: grid;
-        grid-template-columns: auto auto auto;
-        justify-content: center;
-        flex-direction: row;
-        justify-content: space-between;
-        }
-    .card-body, .list-group-item {
-        text-align: center;
-    }
-
-    .card {
-        margin: 5vw;
-        background-color: rgb(31, 1, 48);
-    }
-    .card h5 {
-        color: whitesmoke;
-        font-family: 'Oswald', sans-serif;    
-        font-weight: 400;
-    }
-    .btn {
-        background-color:  #efc84a;
-        color: whitesmoke;
-    }
-
-    </style>
-
-    <script src="./js/index.js"></script>
+    <script src="js/indexScript.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
 </body>

@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(244, 224, 255);
+  }
+  .navbar {
+    background-color: rgb(31, 1, 48);
+  }
+  .home {
+    color: #efc84a;
+}      
+.pageTitle{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 2vw;
+    color: whitesmoke;
+  }
+  .navbar {
+    background-color: rgb(31, 1, 48);
+  }
+  .nav-link {
+    color: whitesmoke;
+  }
