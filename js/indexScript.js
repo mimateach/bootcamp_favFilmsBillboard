@@ -31,6 +31,6 @@ for (let index = 0; index < movies.peliculas.length; index++) {
             </div>
         </div>
         `;
-}
+} 
 });
 
