@@ -7,7 +7,9 @@
       "nombre": "Una joven prometedora",
       "direccion": "Emerald Fennell",
       "clasificacion": "Drama, Género, Social",
-      "link": "https://www.filmaffinity.com/es/film552637.html"
+      "link": "https://www.filmaffinity.com/es/film552637.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 2,
@@ -15,7 +17,9 @@
       "nombre": "Samba",
       "direccion": "Olivier Nakache, Eric Toledano",
       "clasificacion": "Drama, Racial, Música",
-      "link": "https://www.filmaffinity.com/es/film860099.html"
+      "link": "https://www.filmaffinity.com/es/film860099.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 3,
@@ -23,7 +27,9 @@
       "nombre": "Precious: Based on the Novel Push by Sapphire",
       "direccion": "Lee Daniels",
       "clasificacion": "Drama, Racial, Género, Social, Educación",
-      "link": "https://www.filmaffinity.com/es/film362411.html"
+      "link": "https://www.filmaffinity.com/es/film362411.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 4,
@@ -31,7 +37,9 @@
       "nombre": "La familia Bélier",
       "direccion": "Eric Lartigau",
       "clasificacion": "Drama, Francesa, Música",
-      "link": "https://www.filmaffinity.com/es/film406924.html"
+      "link": "https://www.filmaffinity.com/es/film406924.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 5,
@@ -39,7 +47,9 @@
       "nombre": "Bienvenidos al Norte",
       "direccion": "Dany Boon",
       "clasificacion": "Francesa, Comedia",
-      "link": "https://www.filmaffinity.com/es/film485461.html"
+      "link": "https://www.filmaffinity.com/es/film485461.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
 
     {
@@ -48,7 +58,9 @@
       "nombre": "Le doudou",
       "direccion": "Julien Hervé, Philippe Mechelen",
       "clasificacion": "Francesa, Comedia",
-      "link": "https://www.filmaffinity.com/es/film994473.html"
+      "link": "https://www.filmaffinity.com/es/film994473.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
 
     {
@@ -57,7 +69,9 @@
       "nombre": "No soy un hombre fácil",
       "direccion": "Eleonore Pourriat",
       "clasificacion": "Género, Social, Comedia, Francesa",
-      "link": "https://www.filmaffinity.com/es/film830226.html"
+      "link": "https://www.filmaffinity.com/es/film830226.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
 
     {
@@ -66,7 +80,9 @@
       "nombre": "Criadas y señoras",
       "direccion": "Tate Taylor",
       "clasificacion": "Drama, Racial, Género, Social, Histórica",
-      "link": "https://www.filmaffinity.com/es/film512560.html"
+      "link": "https://www.filmaffinity.com/es/film512560.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 9,
@@ -74,7 +90,9 @@
       "nombre": "Moxie",
       "direccion": "Amy Poehler",
       "clasificacion": "Drama, Género, Social",
-      "link": "https://www.filmaffinity.com/es/film698609.html"
+      "link": "https://www.filmaffinity.com/es/film698609.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 10,
@@ -82,7 +100,9 @@
       "nombre": "Calle de la Humanidad, 8",
       "direccion": "Dany Boon",
       "clasificacion": "Social, Francesa, Comedia",
-      "link": "https://www.filmaffinity.com/es/film619902.html"
+      "link": "https://www.filmaffinity.com/es/film619902.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 11,
@@ -90,7 +110,9 @@
       "nombre": "Whiplash",
       "direccion": "Damien Chazelle",
       "clasificacion": "Drama, Música, Educación",
-      "link": "https://www.filmaffinity.com/es/film206955.html"
+      "link": "https://www.filmaffinity.com/es/film206955.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 12,
@@ -98,7 +120,9 @@
       "nombre": "What Happened, Miss Simone?",
       "direccion": "Liz Garbus",
       "clasificacion": "Drama, Racial, Música",
-      "link": "https://www.filmaffinity.com/es/film741404.html"
+      "link": "https://www.filmaffinity.com/es/film741404.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 13,
@@ -106,7 +130,9 @@
       "nombre": "A Secret Love",
       "direccion": "Chris Bolan",
       "clasificacion": "Documental, Social, Género, Histórica",
-      "link": "https://www.filmaffinity.com/es/film497000.html"
+      "link": "https://www.filmaffinity.com/es/film497000.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 14,
@@ -114,7 +140,9 @@
       "nombre": "El olvido que seremos",
       "direccion": "Fernando Trueba",
       "clasificacion": "Drama, Social",
-      "link": "https://www.filmaffinity.com/es/film784420.html"
+      "link": "https://www.filmaffinity.com/es/film784420.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 15,
@@ -122,7 +150,9 @@
       "nombre": "El estornino",
       "direccion": "Theodore Melfi",
       "clasificacion": "Drama, Romance, Género",
-      "link": "https://www.filmaffinity.com/es/film180895.html"
+      "link": "https://www.filmaffinity.com/es/film180895.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 16,
@@ -130,7 +160,9 @@
       "nombre": "Patch Adams",
       "direccion": "Tom Shadyac",
       "clasificacion": "Drama, Social, Romance",
-      "link": "https://www.filmaffinity.com/es/film757509.html"
+      "link": "https://www.filmaffinity.com/es/film757509.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 17,
@@ -138,7 +170,9 @@
       "nombre": "Strange weather",
       "direccion": "Katherine Dieckmann",
       "clasificacion": "Drama, Género, Social",
-      "link": "https://www.filmaffinity.com/es/film926303.html"
+      "link": "https://www.filmaffinity.com/es/film926303.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 18,
@@ -146,7 +180,9 @@
       "nombre": "Intocable",
       "direccion": "Olivier Nakache, Eric Toledano",
       "clasificacion": "Drama, Racial, Social",
-      "link": "https://www.filmaffinity.com/es/film217719.html"
+      "link": "https://www.filmaffinity.com/es/film217719.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 19,
@@ -154,7 +190,9 @@
       "nombre": "Green Book",
       "direccion": "Peter Farrelly",
       "clasificacion": "Drama, Racial, Social, Histórica",
-      "link": "https://www.filmaffinity.com/es/film710220.html"
+      "link": "https://www.filmaffinity.com/es/film710220.html",
+      "summary": "",
+      "whereCanIWatch": ""
     },
     {
       "id": 20,
@@ -162,7 +200,9 @@
       "nombre": "Roxanne Roxanne",
       "direccion": "Michael Larnell",
       "clasificacion": "Drama, Racial, Música",
-      "link": "https://www.filmaffinity.com/es/film563056.html"
+      "link": "https://www.filmaffinity.com/es/film563056.html",
+      "summary": "",
+      "whereCanIWatch": ""
     }
   ],
 
