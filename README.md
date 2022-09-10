@@ -1,6 +1,6 @@
 # Thoughtfilm - Films to reflect on Billboard
 
-Project developed using HTML, CSS, JS and a .json API. 
+<p>Project developed using HTML, CSS, JS and a .json API. </p>
 
 ## Live: 
 
