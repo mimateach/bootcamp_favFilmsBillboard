@@ -1,27 +1,20 @@
-# Api películas
+# Thoughtfilm - Films to reflect on Billboard
 
-Crea con Postman un crud a la Api de películas
+Project developed using HTML, CSS, JS and a .json API. 
 
-## Instalación
+## Live: 
 
-- Instala en global el servidor de la Fake Api
+https://mimateach.github.io/bootcamp_favFilmsBillboard/
 
-    sudo npm install -g json-server
 
-- Ejecuta el json
+## Previews: 
+<div style="display: grid; grid-template-columns: auto auto auto">
+<img src="assets/preview-carrousel1.png"> 
+<img src="assets/preview-carrousel2.png"> 
+<img src="assets/preview-carrousel3.png"> 
 
-    json-server --watch peliculas.json
+<img src="assets/preview-billboard1.png"> 
+<img src="assets/preview-billboard2.png"> 
+<img src="assets/preview-billboard3.png"> 
 
-- Instala Postman
 
-    https://www.postman.com/
-
-- Crea un Crud en Postman
-
-- Crea un crud en un frontend.
-
-    Utiliza una carpeta ./public/index.html para sustituir la página de inicio.
-
-- Modifica el Json a tu gusto y añade imágenes de portada de las películas
-
-<a href=https://github.com/typicode/json-server>JSON-Server documentation:</a>
