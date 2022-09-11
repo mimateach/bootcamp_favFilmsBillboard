@@ -8,13 +8,13 @@ https://mimateach.github.io/bootcamp_favFilmsBillboard/
 
 
 ## Previews: 
-<div style="display: grid; grid-template-columns: auto auto auto">
-<img src="/preview-carrousel1.png"> 
-<img src="/preview-carrousel2.png"> 
-<img src="/preview-carrousel3.png"> 
+<div style="display: flex; justify-content: space-around">
+<img style="width: 45%" src="/preview-carrousel1.png"> 
+<img style="width: 45%" src="/preview-carrousel2.png"> 
+<img style="width: 45%" src="/preview-carrousel3.png"> 
 
-<img src="/preview-billboard1.png"> 
-<img src="/preview-billboard2.png"> 
-<img src="/preview-billboard3.png"> 
+<img style="width: 45%" src="/preview-billboard1.png"> 
+<img style="width: 45%" src="/preview-billboard2.png"> 
+<img style="width: 45%" src="/preview-billboard3.png"> 
 
 
